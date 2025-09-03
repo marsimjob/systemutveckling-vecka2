@@ -20,6 +20,6 @@ Svar till ::FRÅGA 3:: för inlämningsuppgifterna om Github, kurs 1 vecka 2!
 
 ### Ett typsikt arbetsflöde i Github sammarbete kan se ut såhär:
 
-SKAPA BRANCH FOR ISOLERAT UTECKLANDE **>>>** GÄR PULL REQUEST MOT MAIN **>>>** GRANSKA KOD OCH GODKÄNN **>>>** MERGE TILL MAIN
+SKAPA BRANCH FOR ISOLERAT UTECKLANDE **>>>** BEGÄR PULL REQUEST MOT MAIN **>>>** GRANSKA KOD OCH GODKÄNN **>>>** MERGE TILL MAIN
 
 ------------------------------------------------------------------------------------------------------
