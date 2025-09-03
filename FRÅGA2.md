@@ -10,7 +10,7 @@ Svar på ::FRÅGA 2:: i inlämningsuppgiften kurs 1 vecka 2 om GitHub.
 All status sparas från den tidpunkten tillsammans med en unik identfierings kod, 
 en så kallad SHA-hash, med medelande från författaren om vad som ändrades.
 
-## VARFÄR ÄR DET VIKTIGT?
+## VARFÖR ÄR DET VIKTIGT?
 
 - Den ger fullständig **historik** över förändingar under projektets skapelse.
 - Ger möjlighet att felåterföra eller **återgå** till tidigare versioner av projektet.
