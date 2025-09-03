@@ -4,9 +4,8 @@ Svar till ::FRÅGA 3:: för inlämningsuppgifterna om Github, kurs 1 vecka 2!
 
 ------------------------------------------------------------------------------------------------------
 ###  Branches
-- En **branch** är en separat utvecklingslinje i ett Git-repo — till exempel `feature-xyz` eller `main`.
-- Ger möjlighet att utveckla funktioner eller fixa buggar isolerat, utan att påverka huvudkoden tills allt är klart.  
-  :contentReference[oaicite:0]{index=0}
+- En **separat** arbetlinje som går parallelt mot ens huvudsakliga repo.
+- Tillåter **isolerat** arbete för olika personer, möjligör tester och fixes utan att påverka huvukoden.
 
 ### Vad är en Pull Request...
 - En förfrågan om att **slå samman** branches(merge på engelska).
